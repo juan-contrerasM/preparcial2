@@ -1,0 +1,6 @@
+ materia: progmacion estudiante: eladio profesor: eladioProfe
+ materia: progmacion estudiante: eladio estudiante: sebas profesor: sebasProfe profesor: eladioProfe
+ estudiante: eladio estudiante: sebas materia: progmacion profesor: sebasProfe
+ estudiante: juan estudiante: sara materia: progmacion profesor: eladioProfe profesor: sebasProfe
+ estudiante: sebas estudiante: eladio estudiante: sara estudiante: juan estudiante: tiven materia: progmacion profesor: sebasProfe profesor: eladioProfe
+ estudiante: eladio estudiante: sebas estudiante: sara estudiante: tiven estudiante: juan materia: progmacion profesor: sebasProfe profesor: eladioProfe
